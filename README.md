@@ -6,6 +6,8 @@ PadautoclickV1 - NO require admin perm but doesn't work on fullscreen or game
 
 PadautoclickV2 - Require Admin Perm but work everywhere
 
+MAXCLICK - Same as padautoclickV2 but with 1000 cps and without humanization settings
+
 
 
 for python :
